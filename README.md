@@ -2,6 +2,7 @@
 Sources: Internet :D
 
 ENG: In conjunction with uBlock Origin, which can block ads on Spotify but stops the music, this essentially hits play to continue uninterrupted.
+
 RU: В сочетании с uBlock Origin, который может блокировать рекламу на Spotify, но останавливает музыку, это, по сути, запускает воспроизведение, чтобы продолжать непрерывно.
 
 REQUIREMENTS(ENG):
