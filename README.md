@@ -10,5 +10,7 @@ REQUIREMENTS(ENG):
 https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 2) Download UBlock Origin from Chrome Web Store: 
 https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
-3) Click on file "skip_ad.js", if all fine, Tampermonkey script download window will appear
+3) Go to the release directory— https://github.com/Monolitovets/Skip-ads-on-Spotify/releases
+
+Then click on file "skip_ad.user.js", if all fine, Tampermonkey script download window will appear
 4) Use it
